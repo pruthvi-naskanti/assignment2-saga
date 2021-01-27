@@ -13,3 +13,12 @@ ___
 6. In the last minute, season the eggs lightly. For extra creamy texture, stir in 1 tsp of crème fraîche.
 7. Plate and garnish with chopped chives.
 
+___
+
+## Ingredients for scrambled eggs 
+
+- Eggs
+- Butter
+- Salt and pepper
+- Chives
+- Creme fraîche
