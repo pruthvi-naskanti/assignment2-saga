@@ -3,3 +3,15 @@ Worked as Junior Consultant in CloudGen’s Professional Services Organization s
 
 
 ![imageLink](https://www.really-learn-english.com/image-files/letter-s.png)
+
+___
+
+## Recommended places to visit
+
+
+| Location                  | Hours to spend | Expenses |
+| --------------------------| -------------- | ---------|
+| Agra, India  | 4 Hours    |  4 Hours       |   $10    |
+| Liberty Memorial Kansas   |  5 Hours       | $10 - 18 |
+| Saint Louis Art Museum    |  5 Hours       |  Free    |
+| St. louis gateway arch    |  5 Hours       |   $16    |
