@@ -21,5 +21,9 @@ ___
 
 | Quote                                               |    Author         | 
 | ----------------------------------------------------|-------------------| 
-| 'Forgive your enemies, but never forget their names'| John F. Kennedy   | 
-| 'The road to success is always under construction'  |  Lily Tomlin      | 
+|  Forgive your enemies, but never forget their names | *John F. Kennedy* | 
+|  The road to success is always under construction   |  *Lily Tomlin*    | 
+
+___
+
+## Code fencing 
