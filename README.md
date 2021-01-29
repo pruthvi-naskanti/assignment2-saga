@@ -78,3 +78,11 @@ function createAndSendDocument() {
 
 ```
 link to above source code [link](https://developers.google.com/apps-script/overview#your_first_script)
+
+___
+
+## links to images
+
+- ![Taj mahal](images/Taj-Agra.jpg)
+- ![Gateway arch](images/gateway-arch.jpg)
+- ![liberty memorial](images/libertyMemorial.jpg)
