@@ -24,3 +24,57 @@ ___
 - Creme fraîche
 
 Link to about me is [Aboutme](https://github.com/sagajayakumar/assignment2-saga/blob/main/AboutMe.md)
+
+___
+
+## Recommended places to visit
+
+| Location                  | Hours to spend | Expenses |
+| --------------------------| -------------- | ---------|
+| Agra, India               |  4 Hours       |   $10    |
+| Liberty Memorial Kansas   |  5 Hours       | $10 - 18 |
+| Saint Louis Art Museum    |  5 Hours       |  Free    |
+| St. louis gateway arch    |  5 Hours       |   $16    |
+
+___
+
+## Quotes about life
+
+| Quote                                               |    Author         | 
+| ----------------------------------------------------|-------------------| 
+|  Forgive your enemies, but never forget their names | *John F. Kennedy* | 
+|  The road to success is always under construction   |  *Lily Tomlin*    | 
+
+___
+
+## Code fencing 
+
+> **Google Apps Script** is a rapid application development platform that makes it fast and easy to create business applications that integrate with Google Workspace. You write code in modern JavaScript and have access to built-in libraries for favorite Google Workspace applications like Gmail, Calendar, Drive, and more. There's nothing to install—we give you a code editor right in your browser, and your scripts run on Google's servers.
+
+Sample code
+```
+function createAndSendDocument() {
+  // Create a new Google Doc named 'Hello, world!'
+  var doc = DocumentApp.create('Hello, world!');
+
+  // Access the body of the document, then add a paragraph.
+  doc.getBody().appendParagraph('This document was created by Google Apps Script.');
+
+  // Get the URL of the document.
+  var url = doc.getUrl();
+
+  // Get the email address of the active user - that's you.
+  var email = Session.getActiveUser().getEmail();
+
+  // Get the name of the document to use as an email subject line.
+  var subject = doc.getName();
+
+  // Append a new string to the "url" variable to use as an email body.
+  var body = 'Link to your doc: ' + url;
+
+  // Send yourself an email with a link to the document.
+  GmailApp.sendEmail(email, subject, body);
+}
+
+```
+link to above source code [link](https://developers.google.com/apps-script/overview#your_first_script)
