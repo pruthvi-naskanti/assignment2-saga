@@ -36,6 +36,8 @@ ___
 | Saint Louis Art Museum    |  5 Hours       |  Free    |
 | St. louis gateway arch    |  5 Hours       |   $16    |
 
+- Images for the places are provided at the end
+
 ___
 
 ## Quotes about life
@@ -80,7 +82,7 @@ link to above source code [link](https://developers.google.com/apps-script/overv
 
 ___
 
-## links to images
+## images of places to visit
 
 - ![Taj mahal](images/Taj-Agra.jpg)
 - ![Gateway arch](images/gateway-arch.jpg)
